@@ -21,13 +21,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <div style="background-color:#181818; border: 10px solid #181818; display: inline-block; border-radius: 4px;">
     <img vertical-align="bottom"width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img style="vertical-align: bottom" width="45px" src="./icons/python-original.svg" />
-    <img style="vertical-align: bottom" width="50px" src="./icons/docker-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/python-original.svg" />
+    <img style="vertical-align: bottom" width="50px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/docker-original.svg" />
     <i style="font-size: 3em" class="devicon-git-plain colored"></i>
     <i style="font-size: 3em" class="devicon-github-plain"></i>
-    <img style="vertical-align: bottom" width="45px" src="./icons/gitlab-original.svg" />
-    <img style="vertical-align: bottom" width="45px" src="./icons/intellij-original.svg" />
-    <img style="vertical-align: bottom" width="45px" src="./icons/java-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/gitlab-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/intellij-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/java-original.svg" />
     <i style="font-size: 3em" class="devicon-javascript-plain colored"></i>
     <i style="font-size: 3em" class="devicon-nodejs-plain colored"></i>
     <i style="font-size: 3em" class="devicon-mysql-plain-wordmark colored"></i>
