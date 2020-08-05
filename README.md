@@ -23,17 +23,17 @@
     <img vertical-align="bottom"width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/python-original.svg" />
     <img style="vertical-align: bottom" width="50px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/docker-original.svg" />
-    <i style="font-size: 3em" class="devicon-git-plain colored"></i>
+    <img style="vertical-align: bottom" width="50px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/git-original.svg" />
     <i style="font-size: 3em" class="devicon-github-plain"></i>
     <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/gitlab-original.svg" />
     <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/intellij-original.svg" />
     <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/java-original.svg" />
-    <i style="font-size: 3em" class="devicon-javascript-plain colored"></i>
-    <i style="font-size: 3em" class="devicon-nodejs-plain colored"></i>
-    <i style="font-size: 3em" class="devicon-mysql-plain-wordmark colored"></i>
-    <i style="font-size: 3em" class="devicon-html5-plain-wordmark colored"></i>
-    <i style="font-size: 3em" class="devicon-css3-plain-wordmark colored"></i>
-    <i style="font-size: 3em;" class="devicon-bootstrap-plain-wordmark colored"></i>
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/javascript-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/nodejs-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/mysql-plain.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/html5-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/css3-original.svg" />
+    <img style="vertical-align: bottom" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/bootstrap-plain.svg" />
 </div>
 <br />
 <br />
