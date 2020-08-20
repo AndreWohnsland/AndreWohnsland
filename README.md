@@ -30,6 +30,7 @@
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/java-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/javascript-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/nodejs-original.svg" />
+    <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/react-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/mysql-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/html5-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/css3-original.svg" />
