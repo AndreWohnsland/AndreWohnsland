@@ -10,6 +10,10 @@
 
 <br />
 
+### Currently working on my first own React WebApp
+
+I will make public as soon i am satisfied with it :)
+
 ### Check out this cool Cocktailmaker I build
 
 [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine.
