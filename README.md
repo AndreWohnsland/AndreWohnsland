@@ -10,9 +10,9 @@
 
 <br />
 
-### Currently working on my first own React WebApp
+### Currently finished my first own React WebApp
 
-I will make public as soon i am satisfied with it :)
+If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io).
 
 ### Check out this cool Cocktailmaker I build
 
