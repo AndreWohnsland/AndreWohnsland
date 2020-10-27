@@ -40,13 +40,13 @@ If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsl
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/css3-original.svg" />
     <img style="vertical-align: bottom; padding-right: 5px; padding-left: 5px" width="45px" src="https://github.com/AndreWohnsland/AndreWohnsland/blob/master/icons/bootstrap-plain.svg" />
 </div>
+
+<br />
+
+Logos taken from [devicons](https://github.com/devicons/devicon).
 <br />
 <br />
 
 ### Work in Progress:
 
 <img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
-
-<br />
-
-Icons taken from [devicons](https://github.com/devicons/devicon).
