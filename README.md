@@ -46,3 +46,7 @@ If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsl
 ### Work in Progress:
 
 <img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
+
+<br />
+
+Icons taken from [devicons](https://github.com/devicons/devicon).
