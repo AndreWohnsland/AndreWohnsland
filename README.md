@@ -3,24 +3,24 @@
 ## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
 
 - 🔭 Currently a Data-Science Student and System-Engineer
-- 🌱 Currently learning a lot new cool stuff
+- 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2020 Goals: Get better in Java and learn more frontend
+- 🥅 2021 Goals: Tweak my Cocktail Maker and learn some more Big Data technologies
 - ⚡ Fun fact: I like woodworking and creating jewelry
 
 <br />
 
 ### Currently finished my first own React WebApp
 
-If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io).
+If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, will still keep making improvements.
 
 ### Check out this cool Cocktailmaker I build
 
-[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine.
+[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. Currently working on some microservices for IoT features.
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <div style="background-color:#181818; border: 10px solid #181818; display: inline-block; border-radius: 4px;">
