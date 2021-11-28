@@ -12,7 +12,7 @@
 
 ### Currently finished my first own React WebApp
 
-If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, will still keep making improvements.
+If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
 ### Check out this cool Cocktailmaker I build
 
