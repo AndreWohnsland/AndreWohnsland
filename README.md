@@ -16,7 +16,7 @@ If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsl
 
 ### Check out this cool Cocktailmaker I build
 
-[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. Currently working on some microservices for IoT features.
+[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. If you are looking to contribute to the project, feel free to contact me.
 
 <br />
 
