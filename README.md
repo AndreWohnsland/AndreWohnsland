@@ -5,7 +5,7 @@
 - 🔭 Currently a Data-Science Student and System-Engineer
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2021 Goals: Tweak my Cocktail Maker and learn some more Big Data technologies
+- 🥅 2022 Goals: Improve my Cocktail Maker and finish my Master
 - ⚡ Fun fact: I like woodworking and creating jewelry
 
 <br />
