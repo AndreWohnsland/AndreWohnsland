@@ -14,7 +14,7 @@
 
 If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
-### Check out this cool Cocktailmaker I build
+### Check out my Cocktailmaker called CocktailBerry
 
 [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp/main/frontend/main.py) now. If you are looking to contribute to the project, feel free to contact me.
 
