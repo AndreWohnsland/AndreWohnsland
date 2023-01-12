@@ -2,10 +2,10 @@
 
 ## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
 
-- 🔭 Currently a Data-Science Student and System-Engineer
+- 🔭 Currently a Data-Scienctist / System-Engineer
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2022 Goals: Improve my Cocktail Maker and finish my Master
+- 🥅 2023 Goals: Work on the PCB for CocktailBerry
 - ⚡ Fun fact: I like woodworking and creating jewelry
 
 <br />
