@@ -51,4 +51,4 @@ Logos taken from [devicons](https://github.com/devicons/devicon).
 
 ### Work in Progress:
 
-<img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
