@@ -2,7 +2,7 @@
 
 ## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
 
-- 🔭 Currently a Data-Scienctist / System-Engineer
+- 🔭 Currently a Data-Scientist / System-Engineer
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
 - 🥅 2023 Goals: Work on the PCB for CocktailBerry
