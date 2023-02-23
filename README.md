@@ -12,7 +12,7 @@
 
 ### Check out my Cocktailmaker Software called CocktailBerry
 
-[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
+[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression]([https://imgur.com/a/Z4tfISx](https://cocktailberry.readthedocs.io/about/)) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
 
 ### Currently finished my first own React WebApp
 
