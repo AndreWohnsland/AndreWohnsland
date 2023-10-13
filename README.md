@@ -10,16 +10,16 @@
 
 <br />
 
-### Check out my Cocktail maker Software called CocktailBerry
+### Check out my Cocktail Maker Software called CocktailBerry
 
 [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://cocktailberry.readthedocs.io/about/) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
 
-### Currently finished my first own React WebApp
+### Currently Finished my First own React WebApp
 
 If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
 
-### I created the skill plotter
+### I Created the Skill Plotter
 
 This is a nice little python CLI package to plot you skills for various reasons. Have a look into the [documentation](https://skillplotter.readthedocs.io/).
 
