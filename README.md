@@ -14,9 +14,13 @@
 
 If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
-### Check out this cool Cocktailmaker I build
+### Check out this cool cocktail maker I build
 
 [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. If you are looking to contribute to the project, feel free to contact me.
+
+### I created the skill plotter
+
+This is a nice little python CLI package to plot you skills for various reasons. Have a look into the [documentation](https://skillplotter.readthedocs.io/).
 
 <br />
 
