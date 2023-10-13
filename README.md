@@ -2,21 +2,22 @@
 
 ## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
 
-- 🔭 Currently a Data-Science Student and System-Engineer
+- 🔭 Currently a Data-Scientist / System-Engineer
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2021 Goals: Tweak my Cocktail Maker and learn some more Big Data technologies
+- 🥅 2023 Goals: Work on the PCB for CocktailBerry
 - ⚡ Fun fact: I like woodworking and creating jewelry
 
 <br />
+
+### Check out my Cocktail maker Software called CocktailBerry
+
+[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://cocktailberry.readthedocs.io/about/) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
 
 ### Currently finished my first own React WebApp
 
 If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
-### Check out this cool cocktail maker I build
-
-[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://imgur.com/a/Z4tfISx) of the machine. If you are looking to contribute to the project, feel free to contact me.
 
 ### I created the skill plotter
 
@@ -55,4 +56,4 @@ Logos taken from [devicons](https://github.com/devicons/devicon).
 
 ### Work in Progress:
 
-<img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="AndreWohnslands's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=AndreWohnsland&show_icons=true&hide_border=true&theme=dark" />
