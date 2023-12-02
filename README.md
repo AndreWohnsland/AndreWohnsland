@@ -5,7 +5,7 @@
 - 🔭 Currently a Data-Scientist / System-Engineer
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2023 Goals: Work on the PCB for CocktailBerry
+- 🥅 2024 Goals: Improve CocktailBerry and collaborate
 - ⚡ Fun fact: I like woodworking and creating jewelry
 
 <br />
