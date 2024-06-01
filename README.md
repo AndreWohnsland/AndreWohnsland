@@ -2,7 +2,7 @@
 
 ## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
 
-- 🔭 Currently a Data-Scientist / System-Engineer
+- 🔭 Currently a Software Engineer for IoT Manufacturing
 - 🌱 Always learning a lot new cool stuff
 - 👯 Looking to collaborate with other developers
 - 🥅 2024 Goals: Improve CocktailBerry and collaborate
