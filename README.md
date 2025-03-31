@@ -10,7 +10,7 @@
 
 <br />
 
-### Check out my Cocktail Maker Software called CocktailBerry
+### Check out my Cocktail Maker Software called [CocktailBerry](https://www.cocktailberry.org/)
 
 [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://cocktailberry.readthedocs.io/about/) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
 
