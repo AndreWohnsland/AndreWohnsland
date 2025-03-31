@@ -1,27 +1,27 @@
 ### Hi there, I'm Andre - my friends may call me Andrew 👋
 
-## I'm an IoT-Enthusiast, Engineer, Developer, and Explorer!
+## I'm an IoT enthusiast, Engineer, Developer, and Explorer!
 
 - 🔭 Currently a Software Engineer for IoT Manufacturing
-- 🌱 Always learning a lot new cool stuff
+- 🌱 Always learning a lot of new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2024 Goals: Improve CocktailBerry and collaborate
-- ⚡ Fun fact: I like woodworking and creating jewelry
+- 🥅 2025 Goals: Improve CocktailBerry and collaborate
+- ⚡ Fun fact: I like woodworking and creating jewellery
 
 <br />
 
 ### Check out my Cocktail Maker Software called [CocktailBerry](https://www.cocktailberry.org/)
 
-[Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://cocktailberry.readthedocs.io/about/) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
+It is widely used and is now one of the biggest FOSS for custom-built cocktail machines. [Have a look into the code](https://github.com/AndreWohnsland/Cocktailmaker_AW) or just get [some visual impression](https://cocktailberry.readthedocs.io/about/) of the machine and software. Also, there is a [public dashboard for data](https://share.streamlit.io/andrewohnsland/cocktailberry-webapp) now. If you are looking to contribute to the project, feel free to contact me.
 
-### Currently Finished my First own React WebApp
+### I (might have) overengineered a simple Personal Website 
 
 If you are interested, hosted by GitHub pages: [The Website](https://andrewohnsland.github.io/). Or just [the Code](https://github.com/AndreWohnsland/andrewohnsland.github.io). Always come back for more, still making improvements.
 
 
 ### I Created the Skill Plotter
 
-This is a nice little python CLI package to plot you skills for various reasons. Have a look into the [documentation](https://skillplotter.readthedocs.io/).
+This is a nice little Python CLI package to plot your skills for various reasons. Have a look at the [documentation](https://skillplotter.readthedocs.io/).
 
 <br />
 
