@@ -2,7 +2,7 @@
 
 ## I'm an IoT enthusiast, Engineer, Developer, and Explorer!
 
-- 🔭 Currently a Software Engineer for IoT Manufacturing
+- 🔭 Currently a Senior Fullstack Dev in the Energy Sector
 - 🌱 Always learning a lot of new cool stuff
 - 👯 Looking to collaborate with other developers
 - 🥅 2025 Goals: Improve CocktailBerry and collaborate
