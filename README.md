@@ -5,7 +5,7 @@
 - 🔭 Currently a Senior Fullstack Dev in the Energy Sector
 - 🌱 Always learning a lot of new cool stuff
 - 👯 Looking to collaborate with other developers
-- 🥅 2025 Goals: Improve CocktailBerry and collaborate
+- 🥅 2026 Goals: Improve CocktailBerry and collaborate
 - ⚡ Fun fact: I like woodworking and creating jewellery
 
 <br />
